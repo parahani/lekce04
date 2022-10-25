@@ -13,3 +13,4 @@ Třetím projektem v rámci kurzu bude vytvoření responzivního webu, který z
 - https://abookapart.com/products/responsive-web-design
 - https://www.vzhurudolu.cz/kniha-responzivni-design/
 - Užitečný videokurz - https://flexbox.io/
+- test
